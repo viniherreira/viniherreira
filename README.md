@@ -6,7 +6,7 @@
 
 <a href="https://github.com/viniherreira"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2F6BFF&center=true&vCenter=true&width=520&lines=Full-stack+Developer;Co-founder+%40+IDEON;Ideias+que+viram+produtos." alt="Typing SVG" /></a>
 
-<p>Crio SaaS para clínicas e sites para negócios locais.<br/>Next.js · TypeScript · Supabase · Prisma — FIAP · São Paulo</p>
+<p>Crio SaaS para clínicas e sites para negócios locais.<br/>Next.js · TypeScript · Supabase · Prisma  FIAP · São Paulo</p>
 
 <a href="https://www.linkedin.com/in/vinicius-herreira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vini.herreira@gmail.com"><img src="https://img.shields.io/badge/Email-13254B?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -36,7 +36,7 @@
 <summary><b>🌐 Sites para clientes</b></summary>
 <br/>
 
-[VAR Center Log](https://varcenterlog.com) · [Espaço Castelo Forte](https://espacocasteloforte.com.br) · [Dra. Michele Herreira](https://github.com/viniherreira/site-michele) · [Amenity](https://github.com/viniherreira/amenty) · [Elo Representações](https://github.com/viniherreira/EloRepresenta-es) · [Fotografia Editorial](https://github.com/viniherreira/site-mari)
+[VAR Center Log](https://varcenterlog.com) ·  · [Dra. Michele Herreira](https://github.com/viniherreira/site-michele)  · 
 
 </details>
 
